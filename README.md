@@ -1,4 +1,17 @@
-<a href="https://github.com/anhcaols"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anhcaols&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" height="185px" /></a> <a href="https://github.com/anhcaols"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhcaols&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR" height="185px" /></a> 
+### Hi, I'm AnhLs 👋
+
+I'm AnhLs a Junior Web Software Engineer with more than 1 year and 6 months of experience.
+
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
+<a href="https://github.com/anhcaols">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhcaols&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="185px" />
+</a> 
+<a href="https://github.com/anhcaols">
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhcaols&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR" height="185px" />
+</a> 
 </br>
 </br>
 <p align="center"> 
