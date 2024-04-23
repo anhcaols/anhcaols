@@ -10,7 +10,7 @@ I'm AnhLs a Junior Web Software Engineer with more than 1 year and 6 months of e
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhcaols&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" height="185px" />
 </a> 
 <a href="https://github.com/anhcaols">
-  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhcaols&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR" height="185px" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhcaols&hide_border=true&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR" height="185px" />
 </a> 
 </br>
 </br>
