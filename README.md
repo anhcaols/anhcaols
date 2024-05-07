@@ -1,6 +1,6 @@
 ### Hi, I'm AnhLs 👋
 
-I'm AnhLs a Junior Web Software Engineer.
+I'm AnhLs a Junior Web Developer.
 
 #### Top Technologies
 
