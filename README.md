@@ -1,6 +1,6 @@
 ### Hi, I'm AnhLs 👋
 
-I'm AnhLs a Junior Web Developer.
+I'm AnhLs a Web Developer.
 
 #### Top Technologies
 
