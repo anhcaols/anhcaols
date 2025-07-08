@@ -6,12 +6,16 @@ I'm AnhLs — a passionate Web Developer with a focus on modern web technologies
 
 #### 🚀 Top Technologies
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=42b883" />
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&labelColor=black&logo=nuxt.js&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
+  <img src="https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white" />
+</p>
 
 ---
 
