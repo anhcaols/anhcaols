@@ -1,29 +1,32 @@
 ### Hi, I'm AnhLs 👋
 
-I'm AnhLs a Web Developer.
+I'm AnhLs — a passionate Web Developer with a focus on modern web technologies.
 
-#### Top Technologies
+---
+
+#### 🚀 Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Nextjs Badge](https://img.shields.io/badge/Next.js-fff?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Nodejs Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#fff)](#) 
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+
+---
+
+#### 📊 GitHub Stats
 
 <a href="https://github.com/anhcaols">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anhcaols&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" height="185px" />
-</a> 
+</a>
 <a href="https://github.com/anhcaols">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=anhcaols&hide_border=true&layout=compact&langs_count=8&theme=synthwave&role=OWNER,COLLABORATOR" height="185px" />
-</a> 
-</br>
-</br>
-<p align="center"> 
-  Visitor count
-  <br>
+</a>
+
+---
+
+<p align="center">
+  <b>Visitor Count</b><br>
   <img src="https://profile-counter.glitch.me/anhcaols/count.svg" />
 </p>
-
-
-
