@@ -21,7 +21,7 @@ I'm AnhLs — a passionate Web Developer with a focus on modern web technologies
 
 #### 📊 GitHub Stats
 
-<a href="https://github.com/anhcaols/">
+<a href="https://github.com/anhcaols">
   <img align="center" src="https://github-readme-stats-nu-drab-32.vercel.app/api?username=anhcaols&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" height="185px" />
 </a>
 <a href="https://github.com/anhcaols">
