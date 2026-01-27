@@ -15,6 +15,7 @@ I'm AnhLs — a passionate Web Developer with a focus on modern web technologies
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" />
   <img src="https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&labelColor=black&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 
 ---
